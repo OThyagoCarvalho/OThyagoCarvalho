@@ -11,6 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 <div> 
-<img height=180em src="https://github-readme-stats.vercel.app/api?username=OThyagoCarvalho&count_private=true&theme=merko&show_icons=true">
-<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=OThyagoCarvalho&layout=compact&theme=merko">
+<img height=150rem src="https://github-readme-stats.vercel.app/api?username=OThyagoCarvalho&count_private=true&theme=merko&show_icons=true">
+<img height=150rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=OThyagoCarvalho&layout=compact&theme=merko">
 </div>
