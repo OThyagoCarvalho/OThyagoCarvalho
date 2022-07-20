@@ -5,12 +5,6 @@
 📆 My long-term goal is: To become a Full-Stack Cloud Developer. <br> 
 📫 You can reach me at: <a src="mailto:othyagocarvalho@outlook.com">othyagocarvalho@outlook.com</a> <br>
 
-## 📌 These are my favorites repos
-
-| <a href='https://github.com/OThyagoCarvalho/rocketseat-feedget-alt-nlw8'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=othyagocarvalho&repo=rocketseat-feedget-alt-nlw8&layout=compact&theme=react" /> </a> | <a href='https://github.com/OThyagoCarvalho/rocketseat-chapter-iii'><img src="https://github-readme-stats.vercel.app/api/pin/?username=othyagocarvalho&repo=rocketseat-chapter-iii&layout=compact&theme=react" /></a> | <a href='https://github.com/OThyagoCarvalho/rocketseat-MARATONA-DISCOVERY'><img src="https://github-readme-stats.vercel.app/api/pin/?username=othyagocarvalho&repo=rocketseat-MARATONA-DISCOVERY&layout=compact&theme=react" /></a> |
-| ------ | ------ | ------ |
-| <a href='https://github.com/OThyagoCarvalho/Bootstrap5-Carousel-Dynamic-Background-Color'><img src="https://github-readme-stats.vercel.app/api/pin/?username=othyagocarvalho&repo=Bootstrap5-Carousel-Dynamic-Background-Color&layout=compact&theme=react" /> </a> | <a href='https://github.com/OThyagoCarvalho/rocketseat-challenge-aula-2'><img src="https://github-readme-stats.vercel.app/api/pin/?username=othyagocarvalho&repo=rocketseat-challenge-aula-2&layout=compact&theme=react" /></a> | <a href='https://github.com/OThyagoCarvalho/hiring-coders-aulas'><img src="https://github-readme-stats.vercel.app/api/pin/?username=othyagocarvalho&repo=hiring-coders-aulas&layout=compact&theme=react" /></a> |
-
 ## 📖 What I'm currently studying:
 
 - [ ] How to build backend with Node + Express
@@ -19,3 +13,4 @@
 - [ ] VTEX IO
 - [ ] React Hooks
 - [ ] Typescript
+- [ ] AWS Lambda + DynamoDB
