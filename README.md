@@ -4,13 +4,13 @@
 ⏰ My short-term goal is: To become a stablished Front-End Developer.<br>
 📆 My long-term goal is: To become a Full-Stack Cloud Developer. <br> 
 📫 You can reach me at: <a src="mailto:othyagocarvalho@outlook.com">othyagocarvalho@outlook.com</a> <br>
+🌐 My website: <a href="https://www.othyagocarvalho.com.br"> othyagocarvalho.com.br </a> <br>
 
 ## 📖 What I'm currently studying:
 
 - [ ] How to build backend with Node + Express
 - [ ] GraphQL
 - [ ] How to create a REST API
-- [ ] VTEX IO
 - [ ] React Hooks
 - [ ] Typescript
-- [ ] AWS Lambda + DynamoDB
+- [ ] AWS
